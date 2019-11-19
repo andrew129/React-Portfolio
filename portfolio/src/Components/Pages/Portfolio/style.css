@@ -1,0 +1,14 @@
+a img {
+    border: solid 1px rgb(90, 90, 253);
+    width: 290px;
+    height: 290px;
+    margin-right: 0.5rem;
+    margin-left: 0.5rem;
+    margin-bottom: 2px;
+    /* margin-top: 10px; */
+}
+
+ul {
+    list-style-type: none;
+}
+

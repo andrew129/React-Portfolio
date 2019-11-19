@@ -1,0 +1,17 @@
+footer {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    bottom: 0px;
+    background-image: linear-gradient(rgb(96, 123, 190), rgb(70, 70, 214));
+    width: 100%;
+    border-top: solid rgb(248, 102, 44) 2px;
+    text-align: center;
+}
+
+#copyright {
+    font-weight: bold;
+    font-size: 15px;
+    position: relative;
+    top: 8px;
+}
